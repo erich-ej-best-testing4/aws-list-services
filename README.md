@@ -12,7 +12,7 @@ Python 3 is required
 ensure that you are in the folder with this program
 python3 aws-list-services.py
 
-## Badges
+## Flags
 <pre>
 Parameters -r and -v                                                                  #
 python3 aws-list-services.py -r us-east-1                                             #
